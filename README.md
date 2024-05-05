@@ -27,4 +27,4 @@ git commit -m "Resolución de conflictos"
 Recomendaciones Finales
 Es importante recordar que la creación de ramas, realización de cambios, fusión de ramas y resolución de conflictos son partes fundamentales del flujo de trabajo en Git. Siempre es recomendable hacer un seguimiento cuidadoso de los cambios y colaborar con otros miembros del equipo para garantizar la integridad del código.
 
-nueva modificaion
+nueva modificaion 2.0
