@@ -29,4 +29,9 @@ Es importante recordar que la creación de ramas, realización de cambios, fusi�
 
 MODIFICACION DEFINITIVA
 
+<<<<<<< HEAD
 ESTO ES UNA MODIFICACION ACTUALIZADA DE NUESTRO REPOSITORIO
+=======
+
+LA VERSION TRABAJADA EN LOCAL
+>>>>>>> 97152da ( cambios en local version antigua)
