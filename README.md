@@ -28,3 +28,5 @@ Recomendaciones Finales
 Es importante recordar que la creación de ramas, realización de cambios, fusión de ramas y resolución de conflictos son partes fundamentales del flujo de trabajo en Git. Siempre es recomendable hacer un seguimiento cuidadoso de los cambios y colaborar con otros miembros del equipo para garantizar la integridad del código.
 
 MODIFICACION DEFINITIVA
+
+ESTO ES UNA MODIFICACION ACTUALIZADA DE NUESTRO REPOSITORIO
